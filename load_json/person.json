@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Raja",
+        "age" : "22",
+        "gender" : "male",
+        "height" : "165"
+    },
+    {
+        "name" : "Aman",
+        "age" : "18",
+        "gender" : "male",
+        "height" : "180"
+    },
+    {
+        "name" : "Gudiya",
+        "age" : "26",
+        "gender" : "female",
+        "height" : "152"
+    },
+    {
+        "name" : "Khushi",
+        "age" : "12",
+        "gender" : "female",
+        "height" : "115"
+    }
+]
